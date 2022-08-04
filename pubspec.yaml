@@ -1,0 +1,45 @@
+name: devtailor_assignment
+description: Devtailor Assignment
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.6 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # App Configs
+  cupertino_icons: ^1.0.5
+  flutter_launcher_icons: ^0.9.3
+  flutter_native_splash: ^2.2.7
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.1
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/images/appIcon.jpg"
+
+flutter_native_splash:
+  background_image: "assets/images/splashImage.png"
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+
+  fonts:
+    - family: NotoSans
+      fonts:
+        - asset: assets/fonts/NotoSansDisplay-Regular.ttf
+        - asset: assets/fonts/NotoSansDisplay-Medium.ttf
+        - asset: assets/fonts/NotoSansDisplay-SemiBold.ttf
+        - asset: assets/fonts/NotoSansDisplay-Bold.ttf
