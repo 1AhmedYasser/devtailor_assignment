@@ -46,6 +46,7 @@ This App Contains:
 
 Quick Notes:
 1) I Added An Apk for android And an ipa for iOS in case you had any trouble running the app, you can then use them to run the app on your desired platform.
+2) I Also Uploaded The iOS iPA on Diawi for a quick installation (https://webapp.diawi.com/install/xVy4V6). If You Which to test the app from test flight please contact me.
 2) If you have any questions regarding the run or the app code please send them at AhmedYasser.dev@hotmail.com
 
 
