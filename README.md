@@ -34,14 +34,14 @@ This project is copyrighted to Ahmed Yasser and only used for submitting dev tai
 
 ### A Quick Walkthrough In The App
 
-In this project i focused on making a clear architcture and to maintain a clear visablity on what each class do in the app
+In this project i focused on making a clear architecture and to maintain a clear visibility on what each class do in the app
 
 This App Contains:
-1) Constants Seperation (Which makes it easier to change a text in the app or localize the entire app later)
+1) Constants Separation (Which makes it easier to change a text in the app or localize the entire app later)
 2) Import utilization (To Avoid Huge blocks of imports)
-3) Clear Directories Names and archtiecture (Which Makes it easy to navigate in the app)
+3) Clear Directories Names and architecture (Which Makes it easy to navigate in the app)
 4) Adding App Icon and App Splash To Make the app look more cool
-5) Responsivness on different screen sizes on iOS and Android
+5) Responsiveness on different screen sizes on iOS and Android
 6) Custom (NotoSans) Font (Which is added in the figma design to make the design look as close and possible to the required one)
 
 Quick Notes:
