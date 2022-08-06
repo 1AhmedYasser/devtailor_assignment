@@ -2,7 +2,7 @@
 
 This project is copyrighted to Ahmed Yasser and only used for submitting dev tailor assignment
 
-## The Poject Recommened Configurations
+## The Project Recommened Configurations
 
 1) Flutter 3.0.5
 2) Dart 2.17.6
